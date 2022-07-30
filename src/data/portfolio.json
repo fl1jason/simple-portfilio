@@ -1,0 +1,42 @@
+[
+    {
+        "title": "React Calculator",
+        "description": "A simple calculator built with React.",
+        "image": "https://i.imgur.com/qKJfXZL.png",
+        "tags": [
+            "react",
+            "heroku"
+        ]
+    },
+    {
+        "title": "React Todo List",
+        "description": "A simple todo list built with React.",
+        "image": "https://i.imgur.com/qKJfXZL.png",
+        "tags": [
+            "react",
+            "heroku"
+        ]
+    },
+    {
+        "title": "React Chat",
+        "description": "A simple chat built with React.",
+        "image": "https://i.imgur.com/qKJfXZL.png",
+        "tags": [
+            "react",
+            "heroku",
+            "socket.io",
+            "node.js"
+        ]
+    },
+    {
+        "title": "Google Docs Clone",
+        "description": "A simple Google Docs Clone built in NextJS",
+        "image": "https://i.imgur.com/qKJfXZL.png",
+        "tags": [
+            "react",
+            "nextjs",
+            "netlifly",
+            "firebase"
+        ]
+    }
+]
